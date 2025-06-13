@@ -1,0 +1,1 @@
+new 1st commit to new file bb.txt from vm622 for new PR

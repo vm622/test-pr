@@ -11,3 +11,4 @@ another line for new feature 2nd commit from vovam374
 another commit by vm622 to reset PR approval
 commit from vovam374 to test block PR approve as last commit from non-PR owner reviewer 
 another commit by vovam374 to test block PR approve as last didnt work
+commit number 6 for BB feat from vm622
