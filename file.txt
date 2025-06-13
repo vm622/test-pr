@@ -9,3 +9,4 @@ another line for new feature 2nd commit from vovam374
 2nd line of 4th commit by vovam374
 5th commit by vm622 b4 4th commit by vovam374
 another commit by vm622 to reset PR approval
+commit from vovam374 to test block PR approve as last commit from non-PR owner reviewer 
