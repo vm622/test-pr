@@ -1,0 +1,7 @@
+console.log("some new feature in new file aa.js")
+console.log("and another line for same new feature on new file aa.js")
+console.log("3rd line on same new aa.js file event")
+console.log("second commit on feat/aa-feat from vovam374")
+console.log("trying to interfere and make 3rd commit on aa-feat from vm622 b4 pulling 2nd commit")
+console.log("vovam364 making 4th commit")
+console.log("some changes on 5th commit by vm622 before changes pulled of 4th commit by vovam374")
