@@ -1,0 +1,14 @@
+name: all-pr-main
+on:
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  all-pr-main-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run all-pr-main
+        run: | 
+          echo "Running all-pr-main"
+          echo "${{ github.event_name }}"
+          echo "${{ github.event.action }}"
