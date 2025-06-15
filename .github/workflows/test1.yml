@@ -14,4 +14,5 @@ jobs:
       - name: Run test1-job1-echo
         run: | 
           echo "Running test1-job1"
-          echo ${{ github.event }}
+          echo "${{ github.event_name }}"
+          echo "${{ github.event.action }}"
