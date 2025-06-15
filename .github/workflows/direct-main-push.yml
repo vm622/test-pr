@@ -1,0 +1,14 @@
+name: direct-main-push
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  direct-main-push-jon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run direct-main-push
+        run: | 
+          echo "Running test1-job1"
+          echo "${{ github.event_name }}"
+          echo "${{ github.event.action }}"
