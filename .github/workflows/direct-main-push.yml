@@ -1,13 +1,13 @@
-name: test1
+name: direct-main-push
 on:
   push:
     branches: [ "main" ]
 
 jobs:
-  test1-job1:
+  direct-main-push-jon:
     runs-on: ubuntu-latest
     steps:
-      - name: Run test1-job1-echo
+      - name: Run direct-main-push
         run: | 
           echo "Running test1-job1"
           echo "${{ github.event_name }}"
