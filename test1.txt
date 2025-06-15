@@ -1,3 +1,14 @@
+1st commit, line 1
+1st commit, line 2
+2nd commit from vm622, line 3
+2nd commit from vm622, line 4
+3rd commit from vovam374, line 5
+4th commit from vm622, line 5
+5th commit from vm622, line 7
+#1 commit on main branch to create merge conflict with feat/task-1 (solved)
+7th commit from vm622
 #1 commit on main branch to create merge conflict with feat/task-1
 #2 commit to create conflict feat/task-1
+8th commit from vovam374
+9th commit from vm622
 #3 commit to create conflicy
