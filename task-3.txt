@@ -1,0 +1,2 @@
+#1 some commits on main for merge conflict line 1
+#1 some commits on main for merge conflict line 2
