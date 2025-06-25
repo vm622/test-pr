@@ -1,1 +1,2 @@
 new file aa on task-6
+aa.txt - third commit on task-6 with aa and task-6.txt (want to squash)
