@@ -1,1 +1,2 @@
 1st commit on task-7 feature branch
+2nd commit on task-7 to be squashed 
