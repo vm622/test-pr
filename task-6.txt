@@ -1,2 +1,5 @@
 some 1st commit on task-6 sample file
+<<<<<<< HEAD
 task-6.txt - third commit on task-6 with aa and task-6.txt (want to squash)
+=======
+>>>>>>> 200c448 (1st commit on task-6 sample file)
